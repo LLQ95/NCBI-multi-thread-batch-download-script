@@ -3,8 +3,9 @@ this script is a supplement for NCBI Datasets command-line tools (installation l
 
 when we run the command "datasets download genome accession --filename *.txt", it is common to encounter the errors mentioned below:
 
-`Error: Download error: http2: server sent GOAWAY and closed the connection; LastStreamID=2147483647, ErrCode=NO_ERROR, debug=""`
-`Use datasets download genome accession <command> --help for detailed help about a command.`
+`Error: Download error: http2: server sent GOAWAY and closed the connection; LastStreamID=2147483647, ErrCode=NO_ERROR, debug=""
+
+Use datasets download genome accession <command> --help for detailed help about a command.`
 
 Then the command will be terminated. The original command is not suitable for the large amount of genomes with accession ID.
 
