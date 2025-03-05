@@ -1,1 +1,1 @@
-# NCBI-multi-thread-batch-download-script
+# NCBI multithread batch download script
