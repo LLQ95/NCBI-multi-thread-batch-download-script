@@ -16,7 +16,7 @@ This script is designed to combine parallel and NCBI Datasets command-line tools
 
 # Requirement
 
-Before you run this script, please make sure you have already installed NCBI Datasets command-line tools, and parallel
+Before you run this script, please make sure you have already installed NCBI Datasets command-line tools and parallel
 
 `conda install ncbi-datasets-cli parallel`
 
