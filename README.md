@@ -20,4 +20,10 @@ Before you run this script, please make sure you have already installed NCBI Dat
 
 `conda install ncbi-datasets-cli parallel`
 
+all you need is `accession.txt' containing accession ID, retrieved and downloaded from NCBI database, and 'downloaded_genomes.sh' in this repository
+
 # Usage
+
+you can run this script in your Server backend, you can change the thread or API key you want to use in this script.
+
+`nohup bash downloaded_genomes.sh > ncbi_download.log`
