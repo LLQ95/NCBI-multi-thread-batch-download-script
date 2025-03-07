@@ -24,6 +24,6 @@ all you need is `accession.txt` containing accession ID, retrieved and downloade
 
 # Usage
 
-you can run this script in your Server backend, you can change the thread or API key you want to use in this script.
+you can run this script in your Server backend, and you can change the thread or API key you want to use in this script.
 
 `nohup bash downloaded_genomes.sh > ncbi_download.log`
