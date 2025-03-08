@@ -1,4 +1,4 @@
-# NCBI multithread batch download script
+# NCBI multithreads batch download script
 this script is a supplement for NCBI Datasets command-line tools (installation link: https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/)
 
 # Description
